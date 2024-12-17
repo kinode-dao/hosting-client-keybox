@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Yarn lockfile error
+yarn-error.log
+
+# Optional OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
