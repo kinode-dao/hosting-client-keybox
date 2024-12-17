@@ -15,5 +15,6 @@ Command line scripts to:
 - Generate Ethereum accounts to assign to users (only encrypted private keys will be transmitted)
 - Browse payments available for withdrawal
 - Withdraw some or all available payments
+- Send withdrawal reports to framework
   
 
